@@ -114,7 +114,7 @@ let gameObject = {
 
     }
 }
-debugger
+// debugger
 
 // - Build a function, `numPointsScored` that takes in an argument of a player's
 
